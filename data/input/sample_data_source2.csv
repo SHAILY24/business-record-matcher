@@ -1,0 +1,11 @@
+business_name,street,location,contact_phone,email
+"A.B.C. Corp","123 Main Street","New York, NY 10001","212-555-1234","abc@example.com"
+"XYZ Mfg","456 Industrial Boulevard","Chicago IL 60601","(312) 555-5678","xyz@example.com"
+"Smith and Associates","789 Business Park Drive","Los Angeles CA 90001","213 555 9012","smith@example.com"
+"GlobalTech Solutions Inc.","321 Tech Plaza Ave","San Francisco, CA 94102","4155553456","tech@example.com"
+"J. Consulting Group","654 Commerce Way","Boston Massachusetts 02101","617.555.7890","jcg@example.com"
+"DataFlow Systems","987 Data Center Road","Austin TX 78701","512 555 2345","data@example.com"
+"Metropolitan Medical Supply Co","246 Hospital Lane","Seattle WA 98101","206-555-6789","metro@example.com"
+"Premier Logistics","135 Warehouse Avenue","Miami Florida 33101","305.555.0123","logistics@example.com"
+"Innovative Software","864 Silicon Drive","Denver Colorado 80201","3035554567","software@example.com"
+"United Manufacturing LLC","111 Assembly Ln","Houston TX 77001","713-555-1111","united@example.com"
